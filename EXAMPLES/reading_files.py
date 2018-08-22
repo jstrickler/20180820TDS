@@ -3,7 +3,8 @@
 print("** About Spam **")
 with open("../DATA/spam.txt") as spam_in:
     for line in spam_in:
-        print(line.rstrip('\r\n')) # <1>
+        if "Hormel" in line:
+            print(line.rstrip('\r\n')) # <1>
 
 with open("../DATA/eggs.txt") as eggs_in:
     eggs = eggs_in.readlines()  # <2>
