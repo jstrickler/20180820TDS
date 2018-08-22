@@ -13,4 +13,4 @@ with open("../DATA/passwd") as passwd_in:
             users_by_shell[shell] = 1
 
 for shell, count in users_by_shell.items():
-    print("{:5d} {}".format(count, shell))
+    print(" {:2d} {}".format(count, shell))

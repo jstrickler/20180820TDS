@@ -2,10 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="730c9644-56e2-4192-8157-559a45d24725" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reading_text_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/writing_to_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/count_baby_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/creating_dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/function_examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_baby_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/read_knights_into_dict_of_lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reading_csv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sets_of_countries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_scores.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXAMPLES/reading_files.py" beforeDir="false" afterPath="$PROJECT_DIR$/EXAMPLES/reading_files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ANSWERS/shell_users.py" beforeDir="false" afterPath="$PROJECT_DIR$/ANSWERS/shell_users.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,49 +29,102 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="28" />
-          <entry key="txt" value="5" />
+          <entry key="py" value="39" />
+          <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="28" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
-          <entry key="py" value="9112" />
+          <entry key="py" value="13177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="9112" />
+          <entry key="Python" value="13177" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/writing_to_text_file.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DATA/knights.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/read_knights_into_dict_of_lists.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="580">
+              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wi_cities1.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/count_baby_names.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wi_cities2.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/read_baby_names.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" selection-start-line="1" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sets_of_countries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ANSWERS/shell_users.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/student_scores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="26" />
+              <folding>
+                <element signature="e#83#291#0" expanded="true" />
+                <marker date="1534954791405" expanded="true" signature="77:289" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/function_examples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -108,6 +167,15 @@
         <option value="$PROJECT_DIR$/reading_text_files.py" />
         <option value="$PROJECT_DIR$/EXAMPLES/reading_files.py" />
         <option value="$PROJECT_DIR$/writing_to_text_file.py" />
+        <option value="$PROJECT_DIR$/reading_csv.py" />
+        <option value="$PROJECT_DIR$/read_baby_names.py" />
+        <option value="$PROJECT_DIR$/creating_dictionaries.py" />
+        <option value="$PROJECT_DIR$/read_knights_into_dict_of_lists.py" />
+        <option value="$PROJECT_DIR$/count_baby_names.py" />
+        <option value="$PROJECT_DIR$/sets_of_countries.py" />
+        <option value="$PROJECT_DIR$/ANSWERS/shell_users.py" />
+        <option value="$PROJECT_DIR$/student_scores.py" />
+        <option value="$PROJECT_DIR$/function_examples.py" />
       </list>
     </option>
   </component>
@@ -148,6 +216,11 @@
             <path>
               <item name="py3intro" type="b2602c69:ProjectViewProjectNode" />
               <item name="py3intro" type="462c0819:PsiDirectoryNode" />
+              <item name="ANSWERS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="py3intro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="py3intro" type="462c0819:PsiDirectoryNode" />
               <item name="DATA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -168,7 +241,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -189,8 +262,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.writing_to_text_file">
-    <configuration name="list_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.student_scores">
+    <configuration name="count_baby_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,7 +275,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_comprehensions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/count_baby_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="range_examples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="read_knights_into_dict_of_lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,7 +296,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/range_examples.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read_knights_into_dict_of_lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,28 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reading_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="py3intro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/EXAMPLES" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/EXAMPLES/reading_files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="reading_text_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sets_of_countries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -265,7 +317,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reading_text_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sets_of_countries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,7 +326,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="writing_to_text_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="shell_users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py3intro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ANSWERS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ANSWERS/shell_users.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="student_scores" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="py3intro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,7 +359,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/writing_to_text_file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student_scores.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -296,19 +369,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.range_examples" />
-      <item itemvalue="Python.list_comprehensions" />
-      <item itemvalue="Python.reading_text_files" />
-      <item itemvalue="Python.reading_files" />
-      <item itemvalue="Python.writing_to_text_file" />
+      <item itemvalue="Python.read_knights_into_dict_of_lists" />
+      <item itemvalue="Python.count_baby_names" />
+      <item itemvalue="Python.sets_of_countries" />
+      <item itemvalue="Python.shell_users" />
+      <item itemvalue="Python.student_scores" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.writing_to_text_file" />
-        <item itemvalue="Python.reading_files" />
-        <item itemvalue="Python.reading_text_files" />
-        <item itemvalue="Python.list_comprehensions" />
-        <item itemvalue="Python.range_examples" />
+        <item itemvalue="Python.student_scores" />
+        <item itemvalue="Python.shell_users" />
+        <item itemvalue="Python.sets_of_countries" />
+        <item itemvalue="Python.count_baby_names" />
+        <item itemvalue="Python.read_knights_into_dict_of_lists" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +411,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.4495114" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.23995657" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -555,7 +628,86 @@
     <entry file="file://$PROJECT_DIR$/writing_to_text_file.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reading_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/csv_write.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creating_dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#608#616#0" expanded="true" />
+            <marker date="1534948461428" expanded="true" signature="810:936" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DATA/knights.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_knights_into_dict_of_lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/read_baby_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" selection-start-line="1" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/count_baby_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sets_of_countries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ANSWERS/shell_users.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/student_scores.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="26" />
+          <folding>
+            <element signature="e#83#291#0" expanded="true" />
+            <marker date="1534954791405" expanded="true" signature="77:289" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_examples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
