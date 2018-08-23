@@ -13,5 +13,5 @@ officia deserunt Y45 mollit anim id est laborum"""
 pattern = r'(?P<letter>[A-Z])(?P<number>\d{2,3})'  # <1>
 
 for m in re.finditer(pattern, s):
-    print(m.group('letter'), m.group('number')) # <2>
+    print(m.group('letter'), m.group('number'), m.span('letter'), m.groupdict()) # <2>
 

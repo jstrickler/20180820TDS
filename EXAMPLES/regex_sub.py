@@ -19,3 +19,10 @@ print()
 s3, count = rx_code.subn("___", s) # <2>
 print("Made {} replacements".format(count))
 print(s3)
+
+
+# with open('infile.txt') as file_in:
+#     with open('infile_redacted.txt', 'w') as file_out:
+#         text = file_in.read()
+#         new_text = re.sub(pattern, replacement, text)
+#         file_out.write(new_text)

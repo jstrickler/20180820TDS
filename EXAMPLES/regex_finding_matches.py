@@ -24,7 +24,7 @@ if m:
 print()
 
 for m in re.finditer(pattern, s): # <5>
-    print(m.group())
+    print(m.group(), m.start(), m.end())
 print()
 
 matches = re.findall(pattern, s)  # <6>

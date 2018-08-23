@@ -11,7 +11,7 @@ Excepteur sint occaecat A110 cupidatat non proident, sunt in H332 culpa qui
 officia deserunt Y45 mollit anim id est laborum"""
 
 #  my $rx_code = qr/(?P<letter>[A-Z])(?P<number>\d{2,3})/i;
-#  if ($foo ~= /$rx_code/) { }
+#  if ($foo ~= /$rx_code/replacement code/e) { }
 
 rx_code = re.compile(r'(?P<letter>[A-Z])(?P<number>\d{2,3})', re.I)
 
@@ -20,6 +20,7 @@ def update_code(m):   # <1>
     letter = m.group('letter').upper()
     number = int(m.group('number'))
     return '{}{:04d}'.format(letter, number)  # <2>
+    # return "HA HA HA"
 
 s2 = rx_code.sub(update_code, s)  # <3>
 print(s2)
